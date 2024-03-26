@@ -1,2 +1,2 @@
 # hello-world
-This repository branch is for practising the GitHub Flow.
+This repository branch2 is for practising 2x the GitHub Flow.
